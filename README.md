@@ -1,31 +1,33 @@
 🔥 AI-Powered Industrial Energy Analytics System  
 📊 Automated Insights + Visualization + Slack Reporting for Real-Time Decision Making
+🚀 Built an end-to-end AI-powered analytics pipeline to detect energy inefficiencies and automate business reporting via Slack.
+⭐ If you find this project useful, consider giving it a star!
 
 ## 📌 Project Overview
 This project is an end-to-end **AI-powered data analytics pipeline** built for analyzing industrial energy consumption in a steel manufacturing environment.
 It combines **data analysis, visualization, and AI-generated insights** with **automated Slack reporting**, simulating a real-world business analytics workflow used in modern industries.
 
-## 📊 Visualizations
+## 📊 Data Analysis & Visual Insights
 The project generates:
 
 <h3 align="center">📊 Load Type Distribution</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/load_type.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/load_type.png" width="900"/>
 </p>
 
 <h3 align="center">🔥 Correlation Heatmap</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/correlation.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/correlation.png" width="900"/>
 </p>
 
 <h3 align="center">⚡ Top Energy Usage</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/top_usage.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/top_usage.png" width="900"/>
 </p>
 
 <h3 align="center">📈 Energy Usage Distribution</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/distribution.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/distribution.png" width="900"/>
 </p>
 
 ## 💼 Why This Project Matters
@@ -42,17 +44,12 @@ It demonstrates how modern industries can leverage AI for cost optimization and 
 - Generate automated business insights using AI
 - Deliver real-time reports via Slack integration
 
-## 🧠 Key Features
-- 📊 Exploratory Data Analysis (EDA)  
-- 📈 Multiple professional visualizations:
-  - Energy consumption trend  
-  - Load type distribution  
-  - Correlation heatmap  
-  - Peak usage analysis  
-  - Data distribution  
-- 🤖 AI-powered insights using LangChain + OpenAI  
-- ⚠️ Anomaly detection (top energy spikes)  
-- 📩 Automated Slack reporting with charts  
+## ✨ Key Features
+- End-to-end data analysis pipeline  
+- Automated anomaly detection  
+- AI-powered business insights using LangChain + OpenAI  
+- Professional data visualizations  
+- Real-time Slack reporting  
 
 ## 🧰 Tech Stack
 - **Python**
