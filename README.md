@@ -77,7 +77,9 @@ It demonstrates how modern industries can leverage AI for cost optimization and 
 - Time-based industrial data  
 
 ## ⚙️ Workflow
-Data Source → Pandas Analysis → Visualization → LangChain + GPT → Slack Automation
+![Architecture](https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/work_flow.png)
+
+
 
 ## 💡 Key Business Insights
 
