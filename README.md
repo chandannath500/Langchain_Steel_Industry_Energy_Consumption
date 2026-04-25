@@ -74,9 +74,9 @@ It demonstrates how modern industries can leverage AI for cost optimization and 
 - Time-based industrial data  
 
 ## ⚙️ Workflow
-![Architecture](https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/work_flow.png)
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/work_flow.png" width="1200" height="700"/>
+</p>
 
 ## 💡 Key Business Insights
 
