@@ -8,13 +8,25 @@ It combines **data analysis, visualization, and AI-generated insights** with **a
 ## 📊 Visualizations
 The project generates:
 
-![Load Type Distribution](https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/load_type.png)
+<h3 align="center">📊 Load Type Distribution</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/load_type.png" width="700"/>
+</p>
 
-![Correlation Heatmap](https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/correlation.png)
+<h3 align="center">🔥 Correlation Heatmap</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/correlation.png" width="700"/>
+</p>
 
-![Top Energy Usage](https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/top_usage.png)
+<h3 align="center">⚡ Top Energy Usage</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/top_usage.png" width="700"/>
+</p>
 
-![Energy Usage Distribution](https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/distribution.png)
+<h3 align="center">📈 Energy Usage Distribution</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chandannath500/Langchain_Steel_Industry_Energy_Consumption/main/images/distribution.png" width="700"/>
+</p>
 
 ## 💼 Why This Project Matters
 This project simulates a real-world industrial analytics system where:
@@ -65,13 +77,7 @@ It demonstrates how modern industries can leverage AI for cost optimization and 
 - Time-based industrial data  
 
 ## ⚙️ Workflow
-### Step-by-Step:
-1. Load dataset using KaggleHub  
-2. Perform exploratory data analysis  
-3. Generate multiple visualizations  
-4. Detect peak usage and anomalies  
-5. Use LangChain to generate business insights  
-6. Send insights + charts automatically to Slack 
+Data Source → Pandas Analysis → Visualization → LangChain + GPT → Slack Automation
 
 ## 💡 Key Business Insights
 
