@@ -81,6 +81,23 @@ Generate charts
 Create AI insights
 Send report to Slack
 
+## 📊 Project Output Preview
+
+### 📈 Energy Consumption Trend
+![Trend](images/trend.png)
+
+### 📊 Load Type Distribution
+![Load Type](images/load_type.png)
+
+### 🔍 Correlation Heatmap
+![Correlation](images/correlation.png)
+
+### ⚠️ Top Energy Usage
+![Top Usage](images/top_usage.png)
+
+### 📉 Energy Distribution
+![Distribution](images/distribution.png)
+
 Business Impact
 Identifies energy inefficiencies
 Detects abnormal consumption patterns
